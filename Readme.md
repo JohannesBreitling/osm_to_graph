@@ -1,5 +1,5 @@
 # osm_to_graph
-This application converts a OpenStreetMap xml file (e.g. downloaded from (here)[https://extract.bbbike.org/]) to a road graph, that can be used as an input for [jbmaps](https://github.com/JohannesBreitling/osm_to_graph).
+This application converts a OpenStreetMap xml file (e.g. downloaded from (here)[https://extract.bbbike.org/]) to a road graph, that can be used as an input for [jbmaps](https://github.com/JohannesBreitling/jbmaps).
 
 ## Usage
 It requires CMake and C++20. To simplify, we use `just` for the most important commands. Compile the runner using:
